@@ -2,7 +2,7 @@ window.$ = window.jQuery = require('jquery')
 require('bootstrap')
 require('slick-carousel')
 require('lightgallery')
-require('masonry-layout')
+
 
 $(document).ready(() => {
   $('#projects-slider').slick({
