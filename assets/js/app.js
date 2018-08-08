@@ -56,4 +56,5 @@ $(document).ready(() => {
     itemSelector: '.grid-item',
     columnWidth: '.grid-sizer'
   });
+
 })
