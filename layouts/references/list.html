@@ -31,14 +31,14 @@
   <section class="container text-center" id="gallery">
 
   <h2 class="h2 mb-6 text-dark">Galerie</h2>
-  <div id="lightgallery" class="grid-masonry">
-    <div class="grid-sizer col-md-4"></div>
+  <div id="lightgallery" class="row">
+
     {{ $bundle := .Site.GetPage "section" "media" }}
       {{ range .Params.gallery }}
         {{ $fileName := strings.TrimPrefix "/media/" .image }}
         {{ $img := index ($bundle.Resources.Match $fileName) 0 }}
-        {{ $resizedImg := $img.Resize "400x" }}
-        <div class="grid-item col-md-4 grid-item-image" data-src="{{ $img.RelPermalink }}">
+        {{ $resizedImg := $img.Fill "400x280" }}
+        <div class="col-md-4 grid-item-image" data-src="{{ $img.RelPermalink }}">
 
             <img src="{{ $resizedImg.RelPermalink }}" class="img-fluid" alt="">
 
