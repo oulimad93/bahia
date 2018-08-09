@@ -200,3 +200,9 @@ p.card-text {
 .lg-backdrop {
   background-color: rgba(0,0,0,0.8);
 }
+.lg-outer .lg-image {
+        vertical-align: top;
+        max-width: 80%;
+        max-height: calc(100vh - 120px);
+        margin-top: 20px;
+    }
