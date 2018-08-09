@@ -11,8 +11,6 @@ $(document).ready(() => {
     nextArrow: $('#project-next'),
     centerPadding: '100px',
     slidesToShow: 4,
-    autoplay: true,
-    autoplaySpeed: 3000,
     responsive: [
     {
       breakpoint: 1580,

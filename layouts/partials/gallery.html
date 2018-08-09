@@ -1,15 +1,13 @@
 {{ with .Site.GetPage "section" "references" }}
-<div class="pt-7 pb-7 bg-light">
+<div class="pt-1 pb-7  bg-white">
   <section class="container text-center">
-
-  <h2 class="h2 mb-6 text-dark">Galerie</h2>
   <div class="row">
     {{ $bundle := .Site.GetPage "section" "media" }}
-      {{ range first 6 .Params.gallery }}
+      {{ range first 4 .Params.gallery }}
         {{ $fileName := strings.TrimPrefix "/media/" .image }}
         {{ $img := index ($bundle.Resources.Match $fileName) 0 }}
         {{ $resizedImg := $img.Resize "400x280" }}
-        <div class="col-md-4 grid-item-image">
+        <div class="col-md-3 grid-item-image2">
           <a href="/references#gallery">
             <img src="{{ $resizedImg.RelPermalink }}" class="img-fluid" alt="">
           </a>

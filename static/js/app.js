@@ -70,11 +70,6 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   newRequire.modules = modules;
   newRequire.cache = cache;
   newRequire.parent = previousRequire;
-  newRequire.register = function (id, exports) {
-    modules[id] = [function (require, module) {
-      module.exports = exports;
-    }, {}];
-  };
 
   for (var i = 0; i < entry.length; i++) {
     newRequire(entry[i]);
@@ -103,7 +98,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 
   // Override the current require with this new one
   return newRequire;
-})({19:[function(require,module,exports) {
+})({8:[function(require,module,exports) {
 
 // shim for using process in browser
 var process = module.exports = {};
@@ -290,7 +285,7 @@ process.chdir = function (dir) {
 process.umask = function () {
     return 0;
 };
-},{}],5:[function(require,module,exports) {
+},{}],4:[function(require,module,exports) {
 var global = arguments[3];
 var process = require("process");
 var define;
@@ -10659,7 +10654,7 @@ if ( !noGlobal ) {
 return jQuery;
 } );
 
-},{"process":19}],17:[function(require,module,exports) {
+},{"process":8}],9:[function(require,module,exports) {
 var global = arguments[3];
 'use strict';
 
@@ -13180,7 +13175,7 @@ Popper.Defaults = Defaults;
 
 exports.default = Popper;
 //# sourceMappingURL=popper.js.map
-},{}],8:[function(require,module,exports) {
+},{}],7:[function(require,module,exports) {
 var define;
 var global = arguments[3];
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
@@ -17115,7 +17110,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
   Object.defineProperty(exports, '__esModule', { value: true });
 });
 //# sourceMappingURL=bootstrap.js.map
-},{"jquery":5,"popper.js":17}],9:[function(require,module,exports) {
+},{"jquery":4,"popper.js":9}],6:[function(require,module,exports) {
 var define;
 /*
      _ _      _       _
@@ -20129,7 +20124,7 @@ var define;
 
 }));
 
-},{"jquery":5}],7:[function(require,module,exports) {
+},{"jquery":4}],5:[function(require,module,exports) {
 var define;
 /*! lightgallery - v1.6.11 - 2018-05-22
 * http://sachinchoolur.github.io/lightGallery/
@@ -21493,119 +21488,11 @@ var define;
 
 }));
 
-},{"jquery":5}],25:[function(require,module,exports) {
-var bundleURL = null;
-function getBundleURLCached() {
-  if (!bundleURL) {
-    bundleURL = getBundleURL();
-  }
-
-  return bundleURL;
-}
-
-function getBundleURL() {
-  // Attempt to find the URL of the current script and use that as the base URL
-  try {
-    throw new Error();
-  } catch (err) {
-    var matches = ('' + err.stack).match(/(https?|file|ftp):\/\/[^)\n]+/g);
-    if (matches) {
-      return getBaseURL(matches[0]);
-    }
-  }
-
-  return '/';
-}
-
-function getBaseURL(url) {
-  return ('' + url).replace(/^((?:https?|file|ftp):\/\/.+)\/[^/]+$/, '$1') + '/';
-}
-
-exports.getBundleURL = getBundleURLCached;
-exports.getBaseURL = getBaseURL;
-},{}],22:[function(require,module,exports) {
-var bundle = require('./bundle-url');
-
-function updateLink(link) {
-  var newLink = link.cloneNode();
-  newLink.onload = function () {
-    link.remove();
-  };
-  newLink.href = link.href.split('?')[0] + '?' + Date.now();
-  link.parentNode.insertBefore(newLink, link.nextSibling);
-}
-
-var cssTimeout = null;
-function reloadCSS() {
-  if (cssTimeout) {
-    return;
-  }
-
-  cssTimeout = setTimeout(function () {
-    var links = document.querySelectorAll('link[rel="stylesheet"]');
-    for (var i = 0; i < links.length; i++) {
-      if (bundle.getBaseURL(links[i].href) === bundle.getBundleURL()) {
-        updateLink(links[i]);
-      }
-    }
-
-    cssTimeout = null;
-  }, 50);
-}
-
-module.exports = reloadCSS;
-},{"./bundle-url":25}],15:[function(require,module,exports) {
-
-        var reloadCSS = require('_css_loader');
-        module.hot.dispose(reloadCSS);
-        module.hot.accept(reloadCSS);
-      
-},{"_css_loader":22}],6:[function(require,module,exports) {
-'use strict';
-
-Object.defineProperty(exports, "__esModule", {
-    value: true
-});
-
-require('./index.scss');
-
-const masonryLayout = (container, itmes, columns) => {
-    let columnsElements = [];
-
-    for (let i = 1; i <= columns; i++) {
-        let column = document.createElement('div');
-        container.appendChild(column);
-        columnsElements.push(column);
-    }
-
-    for (let m = 0; m < Math.ceil(itmes.length / columns); m++) {
-        for (let n = 0; n < columns; n++) {
-            let item = itmes[m * columns + n];
-            columnsElements[n].appendChild(item);
-        }
-    }
-};
-
-const Masonry = (classContainer = '.masonry-grid', classItems = '.masonry-grid__item') => {
-    let masonryContainers = [...document.querySelectorAll(classContainer)];
-    if (masonryContainers) {
-        masonryContainers.map(container => {
-            let masonryItems = container.querySelectorAll(classItems);
-            let cols = getComputedStyle(container).getPropertyValue('--columns');
-            if (masonryItems && cols) {
-                masonryLayout(container, masonryItems, cols);
-            }
-        });
-    }
-};
-
-exports.default = Masonry;
-},{"./index.scss":15}],2:[function(require,module,exports) {
+},{"jquery":4}],2:[function(require,module,exports) {
 window.$ = window.jQuery = require('jquery');
 require('bootstrap');
 require('slick-carousel');
 require('lightgallery');
-require('masonry-layout-grid');
 
 $(document).ready(function () {
   $('#projects-slider').slick({
@@ -21614,8 +21501,6 @@ $(document).ready(function () {
     nextArrow: $('#project-next'),
     centerPadding: '100px',
     slidesToShow: 4,
-    autoplay: true,
-    autoplaySpeed: 3000,
     responsive: [{
       breakpoint: 1580,
       settings: {
@@ -21650,13 +21535,8 @@ $(document).ready(function () {
     showThumbByDefault: true,
     selector: '.grid-item-image'
   });
-
-  $('.grid-masonry').masonry({
-    itemSelector: '.grid-item',
-    columnWidth: '.grid-sizer'
-  });
 });
-},{"jquery":5,"bootstrap":8,"slick-carousel":9,"lightgallery":7,"masonry-layout-grid":6}],26:[function(require,module,exports) {
+},{"jquery":4,"bootstrap":7,"slick-carousel":6,"lightgallery":5}],17:[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 
@@ -21685,13 +21565,11 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = '' || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + '65047' + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + '56559' + '/');
   ws.onmessage = function (event) {
     var data = JSON.parse(event.data);
 
     if (data.type === 'update') {
-      console.clear();
-
       data.assets.forEach(function (asset) {
         hmrApply(global.parcelRequire, asset);
       });
@@ -21701,6 +21579,8 @@ if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
           hmrAccept(global.parcelRequire, asset.id);
         }
       });
+      // Clear the console after HMR
+      console.clear();
     }
 
     if (data.type === 'reload') {
@@ -21826,5 +21706,5 @@ function hmrAccept(bundle, id) {
     return hmrAccept(global.parcelRequire, id);
   });
 }
-},{}]},{},[26,2], null)
+},{}]},{},[17,2], null)
 //# sourceMappingURL=/app.map
