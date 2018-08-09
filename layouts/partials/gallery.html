@@ -7,7 +7,7 @@
         {{ $fileName := strings.TrimPrefix "/media/" .image }}
         {{ $img := index ($bundle.Resources.Match $fileName) 0 }}
         {{ $resizedImg := $img.Resize "400x280" }}
-        <div class="col-md-3 grid-item-image2">
+        <div class="col-md-3 grid-item-image2 mb-0 mb-md-0 px-5 py-3 p-md-3">
           <a href="/references#gallery">
             <img src="{{ $resizedImg.RelPermalink }}" class="img-fluid" alt="">
           </a>

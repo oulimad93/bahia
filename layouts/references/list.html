@@ -37,7 +37,7 @@
         {{ $fileName := strings.TrimPrefix "/media/" .image }}
         {{ $img := index ($bundle.Resources.Match $fileName) 0 }}
         {{ $resizedImg := $img.Fill "400x280" }}
-        <div class="col-md-3 grid-item-image" data-src="{{ $img.RelPermalink }}">
+        <div class="col-md-3 grid-item-image px-5 px-md-3" data-src="{{ $img.RelPermalink }}">
 
             <img src="{{ $resizedImg.RelPermalink }}" class="img-fluid" alt="">
 
