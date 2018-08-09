@@ -1,5 +1,4 @@
 window.$ = window.jQuery = require('jquery')
-let Masonry = require('masonry-layout')
 require('bootstrap')
 require('slick-carousel')
 require('lightgallery')
@@ -52,13 +51,5 @@ $(document).ready(() => {
     showThumbByDefault:true,
     selector: '.grid-item-image'
   });
-
-const grid = document.querySelector('.grid-masonry')
- if (grid) {
-   new Masonry(grid, {
-     itemSelector: '.grid-item',
-     columnWidth: '.grid-sizer'
-   })
- }
 
 })

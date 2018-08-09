@@ -156,9 +156,10 @@ p.card-text {
   overflow: hidden;
   height: 110px;
 }
-p.card-text:hover {
+a.card-link:hover {
   text-decoration: none;
 }
+
 .badge-facebook {
   color: #fff;
   background-color: rgba(255, 255, 255, 0.1);

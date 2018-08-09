@@ -3,7 +3,7 @@
   <section class="container mb-3">
     <div class="row align-items-center">
       <div class="col-md-12">
-        <h1 class="h1 section-title mb-3 text-center text-dark mb-5">Produits et Services</h2>
+        <h1 class="h1 section-title mb-3 text-center text-dark mb-5">Produits et Services</h1>
         <!-- <p class="text-secondary intro-paragraph">Nos proposont une multitude de services à nos clients</p> -->
       </div>
 
@@ -21,23 +21,23 @@
     </div>
 
   </section>
-  <div class="container-fluid" id="projects-slider">
+  <div class="row" id="projects-slider">
      {{ $bundle := .Site.GetPage "section" "media" }}
       {{ range first 6 .Params.services }}
         {{ $fileName := strings.TrimPrefix "/media/" .image }}
         {{ $img := index ($bundle.Resources.Match $fileName) 0 }}
         {{ $resizedImg := $img.Fill "400x300 center"  }}
           <div class="px-2 px-md-4 py-5">
-        <a href="/services#{{ .title }}">
+        <a href="/services#{{ .title }}" class="card-link">
             <article class="card shadow">
 
               <div class="card-img">
                 <img src="{{ $resizedImg.RelPermalink }}" alt="" class="card-img-top">
               </div>
-              <div class="card-body p-3 p-md-4">
+              <div class="card-body p-3 p-md-4 position-relative">
                 <h4 class="card-title text-dark text-uppercase">{{ .title }}</h4>
                 <p class="card-text text-primary mb-3" >{{ .description }}</p>
-                <a href="/services#{{ .title }}" class="text-dark ">En savoir plus &raquo;</a>
+                <a href="/services#{{ .title }}" class="text-dark mb-0">En savoir plus &raquo;</a>
                 {{ if .link }}
                 <a href="{{ .link }}" target="_blank" class="text-dark float-right"><img src="/img/download.svg" title="Telecharger catalogue" alt="Telecharger catalogue" width="20"></a>
                 {{ end }}
