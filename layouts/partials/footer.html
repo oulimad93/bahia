@@ -99,9 +99,12 @@
         </div>
     {{ end }}
       </div>
-      <div class="col-md-4" id="google-map-area-main" style="height: 300px;">
-
-
+      <div class="col-md-4 p-0">
+        {{ with .Site.GetPage "section" "contact" }}
+        <a href="https://www.google.dz/maps/place/{{ .Params.localisation }}" target="_blank" tabindex="0">
+          <img src="https://maps.googleapis.com/maps/api/staticmap?center={{ .Params.localisation }}&zoom=16&size=480x380&maptype=roadmap&markers=color:red%7C{{ .Params.localisation }}&key=AIzaSyCujkiPXUA9LrvdvYMD4c48D_GCBL4DRt8" alt="" class="img-fluid">
+        </a>
+        {{ end }}
       </div>
     </div>
     <small class="d-block p-3 m-0 text-center">
