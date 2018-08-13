@@ -70,6 +70,11 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   newRequire.modules = modules;
   newRequire.cache = cache;
   newRequire.parent = previousRequire;
+  newRequire.register = function (id, exports) {
+    modules[id] = [function (require, module) {
+      module.exports = exports;
+    }, {}];
+  };
 
   for (var i = 0; i < entry.length; i++) {
     newRequire(entry[i]);
@@ -98,7 +103,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
 
   // Override the current require with this new one
   return newRequire;
-})({8:[function(require,module,exports) {
+})({12:[function(require,module,exports) {
 
 // shim for using process in browser
 var process = module.exports = {};
@@ -285,7 +290,7 @@ process.chdir = function (dir) {
 process.umask = function () {
     return 0;
 };
-},{}],4:[function(require,module,exports) {
+},{}],5:[function(require,module,exports) {
 var global = arguments[3];
 var process = require("process");
 var define;
@@ -10654,7 +10659,7 @@ if ( !noGlobal ) {
 return jQuery;
 } );
 
-},{"process":8}],9:[function(require,module,exports) {
+},{"process":12}],15:[function(require,module,exports) {
 var global = arguments[3];
 'use strict';
 
@@ -13175,7 +13180,7 @@ Popper.Defaults = Defaults;
 
 exports.default = Popper;
 //# sourceMappingURL=popper.js.map
-},{}],7:[function(require,module,exports) {
+},{}],9:[function(require,module,exports) {
 var define;
 var global = arguments[3];
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
@@ -17110,7 +17115,7 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
   Object.defineProperty(exports, '__esModule', { value: true });
 });
 //# sourceMappingURL=bootstrap.js.map
-},{"jquery":4,"popper.js":9}],6:[function(require,module,exports) {
+},{"jquery":5,"popper.js":15}],6:[function(require,module,exports) {
 var define;
 /*
      _ _      _       _
@@ -20124,7 +20129,7 @@ var define;
 
 }));
 
-},{"jquery":4}],5:[function(require,module,exports) {
+},{"jquery":5}],8:[function(require,module,exports) {
 var define;
 /*! lightgallery - v1.6.11 - 2018-05-22
 * http://sachinchoolur.github.io/lightGallery/
@@ -21488,7 +21493,7 @@ var define;
 
 }));
 
-},{"jquery":4}],2:[function(require,module,exports) {
+},{"jquery":5}],2:[function(require,module,exports) {
 window.$ = window.jQuery = require('jquery');
 require('bootstrap');
 require('slick-carousel');
@@ -21536,7 +21541,7 @@ $(document).ready(function () {
     selector: '.grid-item-image'
   });
 });
-},{"jquery":4,"bootstrap":7,"slick-carousel":6,"lightgallery":5}],17:[function(require,module,exports) {
+},{"jquery":5,"bootstrap":9,"slick-carousel":6,"lightgallery":8}],11:[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 
@@ -21565,11 +21570,13 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = '' || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + '56559' + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + '54170' + '/');
   ws.onmessage = function (event) {
     var data = JSON.parse(event.data);
 
     if (data.type === 'update') {
+      console.clear();
+
       data.assets.forEach(function (asset) {
         hmrApply(global.parcelRequire, asset);
       });
@@ -21579,8 +21586,6 @@ if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
           hmrAccept(global.parcelRequire, asset.id);
         }
       });
-      // Clear the console after HMR
-      console.clear();
     }
 
     if (data.type === 'reload') {
@@ -21706,5 +21711,5 @@ function hmrAccept(bundle, id) {
     return hmrAccept(global.parcelRequire, id);
   });
 }
-},{}]},{},[17,2], null)
+},{}]},{},[11,2], null)
 //# sourceMappingURL=/app.map

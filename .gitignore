@@ -1,8 +1,8 @@
 node_modules/
 dist/
 public/
-static/css/main.css
-static/js/app.js
+static/css
+static/js
 .cache/
 resources/
 *.log
