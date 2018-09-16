@@ -3,7 +3,7 @@ heading: Nos Références
 refs:
   - image: /media/cital-01.png
     publish: true
-  - image: /media/logo-teckno-fr-01.png
+  - image: /media/cital-02.png
     publish: true
   - image: /media/yapi-01.png
     publish: true
