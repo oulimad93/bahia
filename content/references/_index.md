@@ -3,11 +3,11 @@ heading: Nos Références
 refs:
   - image: /media/cital-01.png
     publish: true
-  - image: /media/cital-02.png
+  - image: /media/logo-01.png
     publish: true
-  - image: /media/cital-03.png
+  - image: /media/logo-02.png
     publish: true
-  - image: /media/netlify.png
+  - image: /media/logo-03.png
     publish: true
   - image: /media/facebook.png
     publish: true
