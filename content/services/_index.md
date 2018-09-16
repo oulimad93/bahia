@@ -12,9 +12,9 @@ services:
     title: impression numerique  grand format
   - description: |-
 
-      - Découpe de matière rigide 
-      - Gravure et découpe Lazer 
-      - Vinyl adhesive avec découpe
+      Découpe de matière rigide 
+      Gravure et découpe Lazer 
+      Vinyl adhesive avec découpe
     image: /media/forex-Recycle.jpg
     title: Decoupe
   - description: >-
@@ -31,12 +31,12 @@ services:
     image: /media/josh-carter-708667-unsplash.jpg
     title: Signalétique
   - description: |-
-      - Snap up  
-      - Iso Frame 
-      - Banner up  
-      - Multi master 
-      - Porte affiche
-      - desk personnalisé
+      Snap up  
+      Iso Frame 
+      Banner up  
+      Multi master 
+      Porte affiche
+      desk personnalisé
     image: /media/rollup.jpg
     title: Systeme d’exposition
   - description: BZIUHUIHUIH
@@ -45,15 +45,18 @@ services:
       https://drive.google.com/file/d/1LTX7nl9r2CfCy2UNmsAnSjViIGAc5KV1/view?usp=sharing
     title: conception
   - description: |-
-      - stand modulaires 
-      - stand sur mesure 
-      - stand exposition en bâche tendue 
+      stand modulaires 
+      stand sur mesure 
+      stand exposition en bâche tendue 
     title: stand
   - description: |-
-      - Tisse 
-      - Drapeau 
+      Tisse 
+      Drapeau 
     title: 'Sublemation et flex '
-  - description: véhicule - vitrine - façade
+  - description: |-
+      véhicule
+      vitrine
+      façade
     title: 'habillage '
 ---
 Nous proposons a nos clients divers prestation et services, tous avec une garantie de qualité impecable
