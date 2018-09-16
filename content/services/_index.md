@@ -1,6 +1,12 @@
 ---
 heading: Produits et Services
 services:
+  - description: |-
+
+      stand modulaires 
+      stand sur mesure 
+      stand exposition en bâche tendue 
+    title: stand
   - description: >-
 
       bahia display offrent  à tous ses partenaires un excellent moyen
@@ -50,12 +56,6 @@ services:
       Tisse 
       Drapeau 
     title: 'Sublemation et flex '
-  - description: |-
-
-      stand modulaires 
-      stand sur mesure 
-      stand exposition en bâche tendue 
-    title: stand
   - description: |-
       véhicule
       vitrine
