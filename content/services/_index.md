@@ -10,6 +10,7 @@ services:
     title: stand
   - description: >-
 
+
       bahia display offrent  à tous ses partenaires un excellent moyen
       d’améliorer leur image professionnelle, leur crédibilité et la
       représentation de leur entreprise sur le marché.Nos solutions d’impression
