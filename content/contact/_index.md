@@ -4,7 +4,7 @@ phone_2: +213(0)561.665.879
 phone_3: +213(0)561.665.925
 address_1: '12,rue 01 novembre fernand ville bir el djir, oran'
 email_1: contact@bahiadisplay.com
-localisation: '35.726735,-0.5845417'
+localisation: bahia display
 facebook: 'https://facebook.com/BahiaDisplay'
 linkedin: 'https://linkedin.com'
 twitter: 'https://twitter.com'
