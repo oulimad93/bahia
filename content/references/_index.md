@@ -9,17 +9,8 @@ refs:
     publish: true
   - image: /media/logo-03.png
     publish: true
-  - image: /media/facebook.png
-    publish: true
-  - image: /media/microsoft.jpg
-    publish: true
-  - image: /media/samsung.png
-    publish: true
-  - image: /media/dell.png
-    publish: true
-  - image: /media/lenovo.jpg
-    publish: true
-  - image: /media/dell.png
+  - image: /media/tapidor-01.png
+    publish: false
 gallery:
   - image: /media/stand-international-salons-internationaux.jpg
   - image: /media/stand-alstom.jpg
