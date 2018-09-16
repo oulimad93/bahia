@@ -1,11 +1,11 @@
 ---
 heading: Nos Références
 refs:
-  - image: /media/google.png
+  - image: /media/cital-01.png
     publish: true
-  - image: /media/pinterest.png
+  - image: /media/logo-teckno-fr-01.png
     publish: true
-  - image: /media/docker.png
+  - image: /media/yapi-01.png
     publish: true
   - image: /media/netlify.png
     publish: true
