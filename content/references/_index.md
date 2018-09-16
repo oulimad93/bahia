@@ -10,7 +10,7 @@ refs:
   - image: /media/logo-03.png
     publish: true
   - image: /media/tapidor-01.png
-    publish: false
+    publish: true
 gallery:
   - image: /media/stand-international-salons-internationaux.jpg
   - image: /media/stand-alstom.jpg
