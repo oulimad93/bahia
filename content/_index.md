@@ -1,9 +1,9 @@
 ---
 carousel:
   - caption: Notre but est de vous satisfaire
-    image: /media/stand-cph-1.jpg
+    image: /media/stand-cph-3.jpg
   - caption: 'Pour une garantie de qualité et de professionnalisme '
-    image: /media/markus-spiske-445251-unsplash.jpg
+    image: /media/stand-modulable.jpg
   - image: /media/0066-stand-loire-bretagne-e696126.jpg
 intro_image: /media/aaa.png
 presentation: >-
