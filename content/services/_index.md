@@ -25,12 +25,9 @@ services:
       laboriosam est. Tempore!
     image: /media/pawel-czerwinski-710838-unsplash.jpg
     title: Ensigns et panneaux publicitaire
-  - description: >-
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam eaque
-      nulla provident nihil culpa, debitis magnam quisquam, dolor ipsum libero,
-      explicabo fugit tenetur accusamus? Sapiente, voluptatum, blanditiis
-      nesciunt libero magni quae debitis inventore tenetur rerum modi corporis
-      laboriosam est. Tempore!
+  - description: |-
+      Plaque et tableau signalétique
+      Totem intérieur et extérieur / lumineux
     image: /media/josh-carter-708667-unsplash.jpg
     title: Signalétique
   - description: |-
@@ -47,5 +44,16 @@ services:
     link: >-
       https://drive.google.com/file/d/1LTX7nl9r2CfCy2UNmsAnSjViIGAc5KV1/view?usp=sharing
     title: conception
+  - description: |-
+      - stand modulaires 
+      - stand sur mesure 
+      - stand exposition en bâche tendue 
+    title: stand
+  - description: |-
+      - Tisse 
+      - Drapeau 
+    title: 'Sublemation et flex '
+  - description: véhicule - vitrine - façade
+    title: 'habillage '
 ---
 Nous proposons a nos clients divers prestation et services, tous avec une garantie de qualité impecable
