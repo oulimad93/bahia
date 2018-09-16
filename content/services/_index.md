@@ -6,6 +6,7 @@ services:
       stand modulaires 
       stand sur mesure 
       stand exposition en bâche tendue 
+    image: /media/4-activise-stand-surmesure-ABCD_simi_2014.jpg
     title: stand
   - description: >-
 
