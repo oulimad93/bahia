@@ -43,7 +43,7 @@ services:
     image: /media/aaa.png
     link: >-
       https://drive.google.com/file/d/1LTX7nl9r2CfCy2UNmsAnSjViIGAc5KV1/view?usp=sharing
-    title: conception
+    title: conception graphique
   - description: |-
       stand modulaires 
       stand sur mesure 
