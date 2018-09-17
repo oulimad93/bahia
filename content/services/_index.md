@@ -8,6 +8,24 @@ services:
       globale.
     image: /media/4-activise-stand-surmesure-ABCD_simi_2014.jpg
     title: stand sur mesure
+  - title: stand modulable
+  - description: |-
+
+      Snap up  
+      Iso Frame 
+      Banner up  
+      Multi master 
+      Porte affiche
+      desk personnalisé
+    image: /media/rollup.jpg
+    title: Systeme d’exposition
+  - description: >-
+
+      Bahia display vous propose plusieurs types d’enseignes tels que des
+      panneaux à plat, des lettres et formes découpées, des caissons alu plié et
+      même des habillages de façade de magasin.
+    image: /media/pawel-czerwinski-710838-unsplash.jpg
+    title: Enseignes et Panneaux
   - description: >-
 
 
@@ -26,29 +44,12 @@ services:
       - Vinyl adhesive avec découpe
     image: /media/forex-Recycle.jpg
     title: Decoupe
-  - description: >-
-
-      Bahia display vous propose plusieurs types d’enseignes tels que des
-      panneaux à plat, des lettres et formes découpées, des caissons alu plié et
-      même des habillages de façade de magasin.
-    image: /media/pawel-czerwinski-710838-unsplash.jpg
-    title: Enseignes et Panneaux
   - description: |-
 
       Plaque et tableau signalétique
       Totem intérieur et extérieur / lumineux
     image: /media/josh-carter-708667-unsplash.jpg
     title: Signalétique
-  - description: |-
-
-      Snap up  
-      Iso Frame 
-      Banner up  
-      Multi master 
-      Porte affiche
-      desk personnalisé
-    image: /media/rollup.jpg
-    title: Systeme d’exposition
   - description: |-
 
       BZIUHUIHUIH
@@ -66,6 +67,7 @@ services:
       vitrine
       façade
     title: 'habillage '
-  - title: stand modulable
+  - title: stand exposition en bâche tendue
+  - title: Impression uv
 ---
 Nous proposons a nos clients divers prestation et services, tous avec une garantie de qualité impecable
