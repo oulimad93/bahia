@@ -7,7 +7,7 @@ services:
       technique et budgétaire en cohérence avec leur stratégie de communication
       globale.
     image: /media/4-activise-stand-surmesure-ABCD_simi_2014.jpg
-    title: stand
+    title: stand sur mesure
   - description: >-
 
 
