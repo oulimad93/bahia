@@ -70,5 +70,6 @@ services:
   - title: stand exposition en bâche tendue
   - title: Impression uv
   - title: Plaque et tableau signalétique
+  - title: Totem int/ext lumineux
 ---
 Nous proposons a nos clients divers prestation et services, tous avec une garantie de qualité impecable
