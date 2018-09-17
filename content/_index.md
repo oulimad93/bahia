@@ -3,7 +3,7 @@ carousel:
   - caption: Notre but est de vous satisfaire
     image: /media/stand-cph-24-x16.jpg
   - caption: 'Pour une garantie de qualité et de professionnalisme '
-    image: /media/stand-modulable.jpg
+    image: /media/isoframe.jpg
   - image: /media/0066-stand-loire-bretagne-e696126.jpg
 intro_image: /media/aaa.png
 presentation: >-
