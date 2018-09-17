@@ -29,7 +29,7 @@ services:
   - description: |+
 
     image: /media/pawel-czerwinski-710838-unsplash.jpg
-    title: Ensigns et panneaux publicitaire
+    title: Ensigns et panneaux
   - description: |-
 
       Plaque et tableau signalétique
