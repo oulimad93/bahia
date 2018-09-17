@@ -6,7 +6,7 @@ services:
       solution sur mesure qui répond à leurs exigences en matière artistique,
       technique et budgétaire en cohérence avec leur stratégie de communication
       globale.
-    image: /media/4-activise-stand-surmesure-ABCD_simi_2014.jpg
+    image: /media/20150514_060635.jpg
     title: stand sur mesure
   - image: /media/wave-featured-image.png
     title: stand modulable
@@ -18,7 +18,7 @@ services:
       Multi master 
       Porte affiche
       desk personnalisé
-    image: /media/rollup.jpg
+    image: /media/20140906_154131.jpg
     title: Systeme d’exposition
   - description: >-
 
