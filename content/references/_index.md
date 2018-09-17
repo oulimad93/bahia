@@ -7,7 +7,7 @@ refs:
     publish: true
   - image: /media/logo-02.png
     publish: true
-  - image: /media/logo-03.png
+  - image: /media/yapi-logo-02.png
     publish: true
   - image: /media/tapidor-01.png
     publish: true
