@@ -57,7 +57,7 @@ services:
     title: Signalétique
   - description: |-
 
-      BZIUHUIHUIH
+      Création de Logo, charte graphique, maquettes à votre image
     image: /media/aaa.png
     link: >-
       https://drive.google.com/file/d/1LTX7nl9r2CfCy2UNmsAnSjViIGAc5KV1/view?usp=sharing
@@ -72,8 +72,8 @@ services:
       vitrine
       façade
     title: 'habillage '
-  - title: stand exposition en bâche tendue
-  - title: Impression uv
+  - description: 'trophie, clé usb, power bank, stylo,  porte à clef'
+    title: Impression uv
   - title: Plaque et tableau signalétique
   - title: Totem int/ext lumineux
 ---
