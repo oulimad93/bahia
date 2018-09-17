@@ -26,8 +26,11 @@ services:
       - Vinyl adhesive avec découpe
     image: /media/forex-Recycle.jpg
     title: Decoupe
-  - description: |+
+  - description: >-
 
+      Bahia display vous propose plusieurs types d’enseignes tels que des
+      panneaux à plat, des lettres et formes découpées, des caissons alu plié et
+      même des habillages de façade de magasin.
     image: /media/pawel-czerwinski-710838-unsplash.jpg
     title: Enseignes et Panneaux
   - description: |-
