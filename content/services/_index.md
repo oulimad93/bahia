@@ -21,15 +21,15 @@ services:
     title: impression grand format
   - description: |-
 
-      Découpe de matière rigide 
-      Gravure et découpe Lazer 
-      Vinyl adhesive avec découpe
+      - Découpe de matière rigide 
+      - Gravure et découpe Lazer 
+      - Vinyl adhesive avec découpe
     image: /media/forex-Recycle.jpg
     title: Decoupe
   - description: |+
 
     image: /media/pawel-czerwinski-710838-unsplash.jpg
-    title: Ensigns et panneaux
+    title: Enseignes et Panneaux
   - description: |-
 
       Plaque et tableau signalétique
@@ -63,5 +63,6 @@ services:
       vitrine
       façade
     title: 'habillage '
+  - title: stand modulable
 ---
 Nous proposons a nos clients divers prestation et services, tous avec une garantie de qualité impecable
