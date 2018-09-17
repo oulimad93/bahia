@@ -69,5 +69,6 @@ services:
     title: 'habillage '
   - title: stand exposition en bâche tendue
   - title: Impression uv
+  - title: Plaque et tableau signalétique
 ---
 Nous proposons a nos clients divers prestation et services, tous avec une garantie de qualité impecable
