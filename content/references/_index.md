@@ -5,7 +5,7 @@ refs:
     publish: true
   - image: /media/logo-01.png
     publish: true
-  - image: /media/logo-02.png
+  - image: /media/techno-01.png
     publish: true
   - image: /media/yapi-logo-02.png
     publish: true
