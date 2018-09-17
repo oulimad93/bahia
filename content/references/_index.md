@@ -14,13 +14,12 @@ refs:
 gallery:
   - image: /media/stand.jpg
   - image: /media/isoframe.jpg
+  - image: /media/20170718_174557.jpg
   - image: /media/img_20170217_183638.jpg
   - image: /media/imag0890.jpg
-  - image: /media/imag0857.jpg
   - image: /media/dsc_0432.jpg
   - image: /media/dsc_0384-copie.jpg
   - image: /media/dsc_0381.jpg
-  - image: /media/20170718_174557.jpg
   - image: /media/20150514_060635.jpg
   - image: /media/20140327_105152.jpg
   - image: /media/20140924_182146.jpg
