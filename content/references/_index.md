@@ -12,6 +12,7 @@ refs:
   - image: /media/tapidor-01.png
     publish: true
   - image: /media/cph-01.png
+    publish: true
 gallery:
   - image: /media/stand.jpg
   - image: /media/isoframe.jpg
