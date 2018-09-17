@@ -26,5 +26,6 @@ gallery:
   - image: /media/20140327_105152.jpg
   - image: /media/20140924_182146.jpg
   - image: /media/20141016_155025.jpg
+  - image: /media/imag0718.jpg
 ---
 Nous travaillons avec plusieurs entreprises dispercés sur toute la surface du globe, ce qui fait de notre entreprise, un des leader du marché
