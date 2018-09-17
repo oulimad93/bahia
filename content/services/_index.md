@@ -25,7 +25,7 @@ services:
       Bahia display vous propose plusieurs types d’enseignes tels que des
       panneaux à plat, des lettres et formes découpées, des caissons alu plié et
       même des habillages de façade de magasin.
-    image: /media/pawel-czerwinski-710838-unsplash.jpg
+    image: /media/dsc_0501.jpg
     title: Enseignes et Panneaux
   - description: >-
 
