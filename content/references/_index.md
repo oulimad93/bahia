@@ -15,5 +15,6 @@ gallery:
   - image: /media/stand.jpg
   - image: /media/isoframe.jpg
   - {}
+  - {}
 ---
 Nous travaillons avec plusieurs entreprises dispercés sur toute la surface du globe, ce qui fait de notre entreprise, un des leader du marché
