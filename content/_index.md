@@ -4,7 +4,7 @@ carousel:
     image: /media/wave-featured-image.png
   - caption: 'Pour une garantie de qualité et de professionnalisme '
     image: /media/isoframe.jpg
-  - image: /media/0066-stand-loire-bretagne-e696126.jpg
+  - image: /media/20141016_155025.jpg
 intro_image: /media/aaa.png
 presentation: >-
   Bahia Display est une agence de communication domiciliée à Oran, proposant
