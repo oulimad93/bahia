@@ -8,7 +8,8 @@ services:
       globale.
     image: /media/4-activise-stand-surmesure-ABCD_simi_2014.jpg
     title: stand sur mesure
-  - title: stand modulable
+  - image: /media/wave-featured-image.png
+    title: stand modulable
   - description: |-
 
       Snap up  
