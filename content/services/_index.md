@@ -18,7 +18,7 @@ services:
     image: /media/bank-phrom-352283-unsplash.jpg
     link: >-
       https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiA_vDHxdjcAhWIsaQKHTcTCmYQFjAAegQIABAC&url=https%3A%2F%2Fwww.corel.com%2Fcontent%2Fpdf%2Fcgsx3%2Finsights%2Fife_digital.pdf&usg=AOvVaw0H9mP_spDPOnVRPKigQttj
-    title: impression numerique  grand format
+    title: impression grand format
   - description: |-
 
       Découpe de matière rigide 
