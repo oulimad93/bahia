@@ -43,7 +43,7 @@ services:
       - Découpe de matière rigide 
       - Gravure et découpe Lazer 
       - Vinyl adhesive avec découpe
-    image: /media/forex-Recycle.jpg
+    image: /media/20140807_083227.jpg
     title: Decoupe
   - description: |-
 
