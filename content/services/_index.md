@@ -57,7 +57,7 @@ services:
 
       Plaque et tableau signalétique
       Totem intérieur et extérieur / lumineux
-    image: /media/josh-carter-708667-unsplash.jpg
+    image: /media/20140611_193240.jpg
     title: Signalétique
   - description: |-
 
