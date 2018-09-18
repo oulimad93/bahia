@@ -30,7 +30,7 @@ services:
     title: Systeme d’exposition
   - description: >-
 
-      Bahia display vous propose plusieurs types d’enseignes tels que des
+      nous proposons à nos clients plusieurs types d’enseignes tels que des
       panneaux à plat, des lettres et formes découpées, des caissons alu plié et
       même des habillages de façade de magasin.
     image: /media/imag0718.jpg
@@ -38,10 +38,10 @@ services:
   - description: >-
 
 
-      bahia display offrent  à tous ses partenaires un excellent moyen
-      d’améliorer leur image professionnelle, leur crédibilité et la
-      représentation de leur entreprise sur le marché.Nos solutions d’impression
-      numérique grand format de qualité attirent l’attention de vos clients 
+      offrent  à tous ses partenaires un excellent moyen d’améliorer leur image
+      professionnelle, leur crédibilité et la représentation de leur entreprise
+      sur le marché.Nos solutions d’impression numérique grand format de qualité
+      attirent l’attention de vos clients 
     image: /media/20150413_183647.jpg
     link: >-
       https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiA_vDHxdjcAhWIsaQKHTcTCmYQFjAAegQIABAC&url=https%3A%2F%2Fwww.corel.com%2Fcontent%2Fpdf%2Fcgsx3%2Finsights%2Fife_digital.pdf&usg=AOvVaw0H9mP_spDPOnVRPKigQttj
