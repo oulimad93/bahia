@@ -13,6 +13,8 @@ refs:
     publish: true
   - image: /media/cph-01.png
     publish: true
+  - image: /media/ibis_hôtel_logo.png
+  - image: /media/logo-exol-01.png
 gallery:
   - image: /media/stand.jpg
   - image: /media/isoframe.jpg
