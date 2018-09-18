@@ -29,8 +29,10 @@ refs:
     publish: true
   - image: /media/logo-best-house-01.png
     publish: true
-  - {}
-  - {}
+  - image: /media/logo-kissa-01.png
+    publish: true
+  - image: /media/logo-yes-beby-01.png
+    publish: true
   - {}
 gallery:
   - image: /media/stand.jpg
