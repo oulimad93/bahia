@@ -13,7 +13,7 @@ services:
     title: stand modulable
   - description: >-
       Bahia Display vous proposons une gamme d’accessoires vous permettant de
-      d’agrémenter et dynamiser toutes vos surfaces d’exposition
+      d’agrémenter et dynamiser toutes vos surfaces d’exposition :
 
       Snap up  
 
@@ -79,6 +79,7 @@ services:
   - description: 'trophie, clé usb, power bank, stylo,  porte à clef'
     title: Impression uv
   - title: Plaque et tableau signalétique
-  - title: Totem int/ext lumineux
+  - image: /media/20140924_182146.jpg
+    title: Totem int/ext lumineux
 ---
 Nous proposons a nos clients divers prestation et services, tous avec une garantie de qualité impecable
