@@ -8,10 +8,7 @@ services:
       globale.
     image: /media/20150514_060635.jpg
     title: stand sur mesure
-  - description: >-
-      Le stand modulable est facilement transportable grâce à au principe de
-      profilé étudié pour un rangement optimal et des réutilisations multiples
-      sur divers formats.
+  - description: ' nous proposons à nos clients des stands modulable est facilement transportable grâce à au principe de profilé étudié pour un rangement optimal et des réutilisations multiples sur divers formats.'
     image: /media/wave-featured-image.png
     title: stand modulable
   - description: |-
