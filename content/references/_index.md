@@ -14,9 +14,13 @@ refs:
   - image: /media/cph-01.png
     publish: true
   - image: /media/ibis_hôtel_logo.png
+    publish: true
   - image: /media/logo-exol-01.png
+    publish: true
   - image: /media/sonatrach-01.png
+    publish: true
   - image: /media/logo-djm-01.png
+    publish: true
 gallery:
   - image: /media/stand.jpg
   - image: /media/isoframe.jpg
