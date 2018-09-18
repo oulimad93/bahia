@@ -70,6 +70,7 @@ services:
 
       Tisse 
       Drapeau 
+    image: /media/img_1322.jpg
     title: 'Sublemation et flex '
   - description: |-
       véhicule
