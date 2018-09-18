@@ -76,10 +76,12 @@ services:
       véhicule
       vitrine
       façade
+    image: /media/20170925_113702-1-.jpg
     title: 'habillage '
   - description: 'trophie, clé usb, power bank, stylo,  porte à clef'
     title: Impression uv
-  - title: Plaque et tableau signalétique
+  - image: /media/20140611_193240.jpg
+    title: Plaque et tableau signalétique
   - image: /media/20140924_182146.jpg
     title: Totem int/ext lumineux
 ---
