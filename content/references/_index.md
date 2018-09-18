@@ -15,6 +15,8 @@ refs:
     publish: true
   - image: /media/ibis_hôtel_logo.png
   - image: /media/logo-exol-01.png
+  - image: /media/sonatrach-01.png
+  - image: /media/logo-djm-01.png
 gallery:
   - image: /media/stand.jpg
   - image: /media/isoframe.jpg
