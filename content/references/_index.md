@@ -21,6 +21,15 @@ refs:
     publish: true
   - image: /media/logo-djm-01.png
     publish: true
+  - image: /media/logo-condor-01.png
+    publish: true
+  - image: /media/logo-abm-01.png
+    publish: true
+  - image: /media/logo-alsie-01.png
+  - image: /media/logo-best-house-01.png
+  - {}
+  - {}
+  - {}
 gallery:
   - image: /media/stand.jpg
   - image: /media/isoframe.jpg
