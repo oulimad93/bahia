@@ -11,13 +11,20 @@ services:
   - description: ' nous proposons à nos clients des stands modulable est facilement transportable grâce à au principe de profilé étudié pour un rangement optimal et des réutilisations multiples sur divers formats.'
     image: /media/wave-featured-image.png
     title: stand modulable
-  - description: |-
+  - description: >-
+      Bahia Display vous proposons une gamme d’accessoires vous permettant de
+      d’agrémenter et dynamiser toutes vos surfaces d’exposition
 
       Snap up  
+
       Iso Frame 
+
       Banner up  
+
       Multi master 
+
       Porte affiche
+
       desk personnalisé
     image: /media/20140906_154131.jpg
     title: Systeme d’exposition
