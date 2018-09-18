@@ -26,7 +26,9 @@ refs:
   - image: /media/logo-abm-01.png
     publish: true
   - image: /media/logo-alsie-01.png
+    publish: true
   - image: /media/logo-best-house-01.png
+    publish: true
   - {}
   - {}
   - {}
