@@ -35,29 +35,29 @@ refs:
     publish: true
   - {}
 gallery:
-  - image: /media/stand.jpg
-  - image: /media/isoframe.jpg
+  - image: /media/20140216_203207.jpg
+  - image: /media/dsc_0437.jpg
   - image: /media/img_20160823_104518.jpg
   - image: /media/img_20170217_183638.jpg
   - image: /media/imag0890.jpg
   - image: /media/dsc_0432.jpg
-  - image: /media/dsc_0384-copie.jpg
-  - image: /media/dsc_0381.jpg
+  - image: /media/img_0165.jpg
+  - image: /media/img_1322.jpg
   - image: /media/20150514_060635.jpg
   - image: /media/20140327_105152.jpg
   - image: /media/20140924_182146.jpg
   - image: /media/20141016_155025.jpg
   - image: /media/imag0718.jpg
-  - image: /media/20150422_124511.jpg
+  - image: /media/img_1328.jpg
   - image: /media/20150331_182639.jpg
   - image: /media/20170718_174557.jpg
   - image: /media/dsc_0086.jpg
-  - image: /media/20140401_125323.jpg
-  - image: /media/dsc_0384-copie.jpg
+  - image: /media/img_20161123_204628.jpg
+  - image: /media/img_20160822_131905.jpg
   - image: /media/dsc_0086.jpg
   - image: /media/20170925_113702-1-.jpg
-  - image: /media/dsc_0915.jpg
+  - image: /media/dsc_0416.jpg
   - image: /media/20150319_155608.jpg
-  - image: /media/20151111_101456.jpg
+  - image: /media/img_20161023_200312.jpg
 ---
 Nous travaillons avec plusieurs entreprises dispercés sur toute la surface du globe, ce qui fait de notre entreprise, un des leader du marché
