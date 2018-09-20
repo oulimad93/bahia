@@ -23,7 +23,7 @@
   </section>
   <div class="" id="projects-slider">
      {{ $bundle := .Site.GetPage "section" "media" }}
-      {{ range first 6 .Params.services }}
+      {{ range .Params.services }}
         {{ $fileName := strings.TrimPrefix "/media/" .image }}
         {{ $img := index ($bundle.Resources.Match $fileName) 0 }}
         {{ $resizedImg := $img.Fill "400x300 center"  }}
