@@ -37,7 +37,6 @@ refs:
 gallery:
   - image: /media/20140216_203207.jpg
   - image: /media/dsc_0437.jpg
-  - image: /media/img_20160823_104518.jpg
   - image: /media/img_20170217_183638.jpg
   - image: /media/imag0890.jpg
   - image: /media/dsc_0432.jpg
