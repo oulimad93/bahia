@@ -3,7 +3,7 @@ carousel:
   - caption: Notre but est de vous satisfaire
     image: /media/wave-featured-image.png
   - caption: 'Pour une garantie de qualité et de professionnalisme '
-    image: /media/isoframe.jpg
+    image: /media/20140216_203339.jpg
   - image: /media/20141016_155025.jpg
 intro_image: /media/aaa.png
 presentation: >-
