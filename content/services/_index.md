@@ -42,7 +42,7 @@ services:
       professionnelle, leur crédibilité et la représentation de leur entreprise
       sur le marché.Nos solutions d’impression numérique grand format de qualité
       attirent l’attention de vos clients 
-    image: /media/20150413_183647.jpg
+    image: /media/20151118_114002.jpg
     link: >-
       https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiA_vDHxdjcAhWIsaQKHTcTCmYQFjAAegQIABAC&url=https%3A%2F%2Fwww.corel.com%2Fcontent%2Fpdf%2Fcgsx3%2Finsights%2Fife_digital.pdf&usg=AOvVaw0H9mP_spDPOnVRPKigQttj
     title: impression grand format
@@ -51,13 +51,13 @@ services:
       - Découpe de matière rigide 
       - Gravure et découpe Lazer 
       - Vinyl adhesive avec découpe
-    image: /media/20140807_083227.jpg
+    image: /media/20140419_095917.jpg
     title: Decoupe
   - description: |-
 
       Plaque et tableau signalétique
       Totem intérieur et extérieur / lumineux
-    image: /media/20140611_193240.jpg
+    image: /media/20140924_182917.jpg
     title: Signalétique
   - description: |-
 
@@ -79,10 +79,7 @@ services:
     image: /media/20170925_113702-1-.jpg
     title: 'habillage '
   - description: 'trophie, clé usb, power bank, stylo,  porte à clef'
+    image: /media/impressionuv.jpg
     title: Impression uv
-  - image: /media/20140611_193240.jpg
-    title: Plaque et tableau signalétique
-  - image: /media/20140924_182146.jpg
-    title: Totem int/ext lumineux
 ---
 Nous proposons a nos clients divers prestation et services, tous avec une garantie de qualité impecable
