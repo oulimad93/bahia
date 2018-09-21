@@ -19,8 +19,6 @@ refs:
     publish: true
   - image: /media/sonatrach-01.png
     publish: true
-  - image: /media/logo-djm-01.png
-    publish: true
   - image: /media/logo-condor-01.png
     publish: true
   - image: /media/logo-abm-01.png
@@ -33,7 +31,10 @@ refs:
     publish: true
   - image: /media/logo-yes-beby-01.png
     publish: true
-  - {}
+  - image: /media/logo-capital-01.png
+    publish: true
+  - image: /media/djm-logo-01.png
+    publish: true
 gallery:
   - image: /media/20140216_203207.jpg
   - image: /media/dsc_0437.jpg
