@@ -42,7 +42,6 @@ gallery:
   - image: /media/imag0890.jpg
   - image: /media/dsc_0432.jpg
   - image: /media/img_0165.jpg
-  - image: /media/img_1322.jpg
   - image: /media/20150514_060635.jpg
   - image: /media/20140327_105152.jpg
   - image: /media/20140924_182146.jpg
@@ -81,5 +80,20 @@ gallery:
   - image: /media/img_1219.jpg
   - image: /media/img_1208.jpg
   - image: /media/img_0696.jpg
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
+  - {}
 ---
 Nous travaillons avec plusieurs entreprises dispercés sur toute la surface du globe, ce qui fait de notre entreprise, un des leader du marché
