@@ -80,11 +80,11 @@ gallery:
   - image: /media/img_1219.jpg
   - image: /media/img_1208.jpg
   - image: /media/img_0696.jpg
-  - {}
-  - {}
-  - {}
-  - {}
-  - {}
+  - image: /media/20170718_174424.jpg
+  - image: /media/20151115_122622.jpg
+  - image: /media/20140216_203207.jpg
+  - image: /media/dsc_0382.jpg
+  - image: /media/imag0368.jpg
   - {}
   - {}
   - {}
