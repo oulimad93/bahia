@@ -59,35 +59,33 @@ gallery:
   - image: /media/20150530_140527.jpg
   - image: /media/21.jpg
   - image: /media/20141015_192413.jpg
+  - image: /media/20140216_203339.jpg
+  - image: /media/img_20170125_193754.jpg
+  - image: /media/20170718_174557.jpg
+  - image: /media/img_20160822_131911.jpg
+  - image: /media/img_20160822_131905.jpg
+  - image: /media/20141016_155025.jpg
+  - image: /media/20170925_113702-1-.jpg
+  - image: /media/img_20170803_175455.jpg
+  - image: /media/20170718_174424.jpg
   - image: /media/img_20170217_183638.jpg
   - image: /media/imag0890.jpg
   - image: /media/20140327_105152.jpg
   - image: /media/20140924_182146.jpg
-  - image: /media/20141016_155025.jpg
-  - image: /media/20170718_174557.jpg
   - image: /media/dsc_0086.jpg
-  - image: /media/img_20160822_131905.jpg
-  - image: /media/20140216_203339.jpg
-  - image: /media/dsc_0086.jpg
-  - image: /media/20170925_113702-1-.jpg
   - image: /media/20150319_155608.jpg
   - image: /media/multi-master.jpg
   - image: /media/liper-4-.jpg
   - image: /media/img_20170807_120634.jpg
   - image: /media/liper-2-.jpg
   - image: /media/img_20170807_120239-copie.jpg
-  - image: /media/img_20170803_175455.jpg
   - image: /media/img_20170724_120804.jpg
   - image: /media/img_20170224_155743.jpg
-  - image: /media/img_20170125_193754.jpg
-  - image: /media/img_20160822_131911.jpg
-  - image: /media/img_20160822_131905.jpg
   - image: /media/img_1324.jpg
   - image: /media/img_1322.jpg
   - image: /media/img_1219.jpg
   - image: /media/img_1208.jpg
   - image: /media/img_0696.jpg
-  - image: /media/20170718_174424.jpg
   - image: /media/20151115_122622.jpg
   - image: /media/dsc_0382.jpg
   - image: /media/20140903_211109.jpg
