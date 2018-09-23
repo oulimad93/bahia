@@ -6,4 +6,3 @@ static/js
 .cache/
 resources/
 *.log
-content/media
