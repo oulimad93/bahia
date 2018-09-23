@@ -2,8 +2,8 @@
 heading: Produits et Services
 services:
   - description: >-
-      Parce que chaque projet est unique, nous proposons à nos clients une
-      solution sur mesure qui répond à leurs exigences en matière artistique,
+      Parce que chaque projet est unique, nous proposons à nos clients des
+      solutions sur mesure qui répond à leurs exigences en matière artistique,
       technique et budgétaire en cohérence avec leur stratégie de communication
       globale.
     image: /media/20150514_060635.jpg
@@ -12,7 +12,7 @@ services:
     image: /media/wave-featured-image.png
     title: stand modulable
   - description: >-
-      Bahia Display vous proposons une gamme d’accessoires vous permettant de
+      nous proposons à nos clients une gamme d’accessoires vous permettant de
       d’agrémenter et dynamiser toutes vos surfaces d’exposition :
 
       Snap up  
