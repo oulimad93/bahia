@@ -38,7 +38,7 @@ services:
   - description: >-
 
 
-      offrent  à tous ses partenaires un excellent moyen d’améliorer leur image
+      nous offrent à nos clients un excellent moyen d’améliorer leur image
       professionnelle, leur crédibilité et la représentation de leur entreprise
       sur le marché.Nos solutions d’impression numérique grand format de qualité
       attirent l’attention de vos clients 
@@ -47,7 +47,7 @@ services:
       https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiA_vDHxdjcAhWIsaQKHTcTCmYQFjAAegQIABAC&url=https%3A%2F%2Fwww.corel.com%2Fcontent%2Fpdf%2Fcgsx3%2Finsights%2Fife_digital.pdf&usg=AOvVaw0H9mP_spDPOnVRPKigQttj
     title: impression grand format
   - description: |-
-
+      nous proposons à nos clients 
       - Découpe de matière rigide 
       - Gravure et découpe Lazer 
       - Vinyl adhesive avec découpe
