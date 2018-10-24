@@ -1,7 +1,7 @@
 ---
 principal_phone: +213(0)41.622.215
 phone_2: +213(0)561.665.879
-phone_3: +213(0)561.665.925
+phone_3: +213(0)561.665.907
 address_1: '12,rue 01 novembre fernand ville bir el djir, oran'
 email_1: contact@bahiadisplay.com
 localisation: >-
