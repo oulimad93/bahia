@@ -7,10 +7,14 @@ carousel:
   - image: /media/20141016_155025.jpg
 intro_image: /media/aaa.png
 presentation: >-
-  Bahia Display est une agence de communication domiciliée à Oran, proposant
-  plusieurs services à ses clients allant de l'impression numérique à
-  l’aménagement de stand et aux systèmes d'exposition. Notre principal but et
-  d'offrir une prestation de qualité et un rendu impeccable pour satisfaire nos
-  clients et leur offrir le meilleur produit possible.
+  Bahia Display est un partenaire fabricant local, impliqué dans vos projets
+  pour un service à votre mesure. 
+
+
+  Qualité, Prix, Rapidité et Souplesse 
+
+
+  Faites-nous part de vos idées, au-delà de la fabrication, c'est un vrai
+  accompagnement que nous mettons en place pour nos clients.
 ---
 
