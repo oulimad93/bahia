@@ -11,7 +11,7 @@ presentation: >-
   pour un service à votre mesure. 
 
 
-  Qualité, Prix, Rapidité et Souplesse 
+  Qualité, Prix, Rapidité et Souplesse. 
 
 
   Faites-nous part de vos idées, au-delà de la fabrication, c'est un vrai
