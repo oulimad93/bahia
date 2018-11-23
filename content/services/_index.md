@@ -62,13 +62,6 @@ services:
       Totem intérieur et extérieur / lumineux
     image: /media/20140924_182917.jpg
     title: Signalétique
-  - description: |-
-
-      Création de Logo, charte graphique, maquettes à votre image
-    image: /media/aaa.png
-    link: >-
-      https://drive.google.com/file/d/1LTX7nl9r2CfCy2UNmsAnSjViIGAc5KV1/view?usp=sharing
-    title: Conception graphique
   - description: >-
       T-shirt personnalisé en flex " T-shirts en coton pour homme, femme et
       enfant " 
