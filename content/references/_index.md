@@ -35,6 +35,10 @@ refs:
     publish: true
   - image: /media/djm-logo-01.png
     publish: true
+  - image: /media/atm_mobilis.svg.png
+    publish: true
+  - image: /media/new-logo-dimel.png
+    publish: true
 gallery:
   - image: /media/20140216_203207.jpg
   - image: /media/20150514_060635.jpg
