@@ -87,7 +87,7 @@ services:
       C'est le meilleur moyen d'être vu et de promouvoir une marque, un produit,
       une société. 
     image: /media/img_20160823_104518.jpg
-    title: 'Habillage:'
+    title: Habillage
   - description: >-
       Nous proposons a nos clients impression uv sur absolument tous les
       supports, (plastique, métal, verre, bois…). 
