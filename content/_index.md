@@ -1,7 +1,7 @@
 ---
 carousel:
   - image: /media/rawpixel-395554-unsplash.jpg
-  - image: /media/techno-2.jpg
+  - image: /media/techno-3.jpg
 intro_image: /media/aaa.png
 presentation: >-
   Bahia Display est un partenaire fabricant local, impliqué dans vos projets
