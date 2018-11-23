@@ -1,9 +1,13 @@
 ---
 carousel:
-  - image: /media/cph.jpg
-  - image: /media/techno-3.jpg
-  - image: /media/setram.jpg
-  - image: /media/techno-4.jpg
+  - caption: DE LA CONCEPTION À LA RÉALISATION DE VOTRE STAND D’EXPOSITION
+    image: /media/cph.jpg
+  - caption: COMMUNICATION VISUELLE
+    image: /media/techno-3.jpg
+  - caption: QUALITÉ D'IMPRESSION
+    image: /media/setram.jpg
+  - caption: ACTUALITÉS ET INSPIRATIONS
+    image: /media/techno-4.jpg
 intro_image: /media/aaa.png
 presentation: >-
   Bahia Display est un partenaire fabricant local, impliqué dans vos projets
