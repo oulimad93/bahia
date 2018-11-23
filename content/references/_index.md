@@ -7,6 +7,7 @@ refs:
     publish: true
   - image: /media/logo-techno-01.png
     publish: true
+  - image: /media/yapi-01-01.jpg
   - image: /media/yapi-logo-02.png
     publish: true
   - image: /media/tapidor-01.png
