@@ -79,7 +79,8 @@ services:
     image: /media/20170925_113702-1-.jpg
     title: 'habillage '
   - description: 'trophie, clé usb, power bank, stylo,  porte à clef'
-    image: /media/impressionuv.jpg
+    image: >-
+      /media/0-02-05-6b2b6a73ae5dc67190608151062562f9e933fd9c72d2131dcc7399bf5a2f960d_full.jpg
     title: Impression uv
 ---
 Nous proposons a nos clients divers prestation et services, tous avec une garantie de qualité impecable
