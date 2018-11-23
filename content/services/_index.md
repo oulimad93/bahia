@@ -6,7 +6,7 @@ services:
       solutions sur mesure qui répond à leurs exigences en matière artistique,
       technique et budgétaire en cohérence avec leur stratégie de communication
       globale.
-    image: /media/20150514_060635.jpg
+    image: /media/20150514_060635.gif
     title: Stand sur mesure
   - description: >-
       Nous proposons à nos clients des stands modulable est facilement
