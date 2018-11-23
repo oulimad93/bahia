@@ -1,6 +1,6 @@
 ---
 carousel:
-  - image: /media/rawpixel-395554-unsplash.jpg
+  - image: /media/cph.jpg
   - image: /media/techno-3.jpg
   - image: /media/setram.jpg
   - image: /media/techno-4.jpg
