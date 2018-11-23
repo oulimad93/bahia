@@ -82,10 +82,12 @@ services:
     image: /media/img_1322.jpg
     title: T-shirt personnalisé
   - description: >
+      véhicule - vitrine - façade
+
       C'est le meilleur moyen d'être vu et de promouvoir une marque, un produit,
       une société. 
     image: /media/img_20160823_104518.jpg
-    title: 'Habillage:véhicule -vitrine-façade'
+    title: 'Habillage:'
   - description: >-
       Nous proposons a nos clients impression uv sur absolument tous les
       supports, (plastique, métal, verre, bois…). 
