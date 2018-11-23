@@ -1,12 +1,12 @@
 ---
 carousel:
-  - caption: DE LA CONCEPTION À LA RÉALISATION DE VOTRE STAND D’EXPOSITION
+  - caption: ''
     image: /media/cph.jpg
-  - caption: COMMUNICATION VISUELLE
+  - caption: ''
     image: /media/techno-3.jpg
-  - caption: QUALITÉ D'IMPRESSION
+  - caption: ''
     image: /media/setram.jpg
-  - caption: ACTUALITÉS ET INSPIRATIONS
+  - caption: ''
     image: /media/techno-4.jpg
 intro_image: /media/aaa.png
 presentation: >-
