@@ -51,7 +51,7 @@ services:
       - Découpe de matière rigide 
       - Gravure et découpe Lazer 
       - Vinyl adhesive avec découpe
-    image: /media/20140419_095917.jpg
+    image: /media/20150319_155608.jpg
     title: Decoupe
   - description: |-
 
@@ -66,16 +66,29 @@ services:
     link: >-
       https://drive.google.com/file/d/1LTX7nl9r2CfCy2UNmsAnSjViIGAc5KV1/view?usp=sharing
     title: Conception graphique
-  - description: |-
+  - description: >-
+      T-shirt personnalisé en flex " T-shirts en coton pour homme, femme et
+      enfant " 
 
-      Tisse 
-      Drapeau 
+      Flex découpé : 
+
+      -Ce système de marquage dispose d'un vaste domaine d'application et
+      présente de nombreux avantages : 
+
+      Matériaux disponibles : couleurs brillantes, mates, fluorescentes,
+      métalisées, holographiques, floquées, givrées, etc. 
+
+      Idéal pour la personnalisation "motif ou logo de votre choix" 
+
+      Grande résistance au lavage. 
+
+      Rapide et bonne tenue dans le temps. 
     image: /media/img_1322.jpg
-    title: 'Sublemation et flex '
+    title: T-shirt personnalisé en flex
   - description: >
       C'est le meilleur moyen d'être vu et de promouvoir une marque, un produit,
       une société. 
-    image: /media/20170925_113702-1-.jpg
+    image: /media/img_20160823_104518.jpg
     title: 'Habillage : véhicule - vitrine - façade'
   - description: >-
       Nous proposons a nos clients impression uv sur absolument tous les
