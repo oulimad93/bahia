@@ -78,7 +78,20 @@ services:
       façade
     image: /media/20170925_113702-1-.jpg
     title: 'habillage '
-  - description: 'trophie, clé usb, power bank, stylo,  porte à clef'
+  - description: >-
+      Nous proposons a nos clients impression uv sur absolument tous les
+      supports, (plastique, métal, verre, bois…) et pas seulement sur les
+      matières absorbantes. 
+
+      Une haute qualité des imprimés et un meilleur rendu des couleurs. Les
+      impressions peuvent en outre obtenir un effet de relief. 
+
+      Les visuels imprimés sont plus résistants, notamment à l’action du soleil 
+
+      La possibilité d’imprimer sur n’importe quel matériau ouvre bien des
+      horizons qui sont en train d’être exploités par les industriels.
+      Impression sur synthétique, emballages, et divers matériels promotionnels…
+      la décoration intérieure ou même la personnalisation d'objets. 
     image: >-
       /media/0-02-05-6b2b6a73ae5dc67190608151062562f9e933fd9c72d2131dcc7399bf5a2f960d_full.jpg
     title: Impression uv
