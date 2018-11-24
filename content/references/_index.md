@@ -9,8 +9,6 @@ refs:
     publish: true
   - image: /media/yapi-01-01.jpg
     publish: true
-  - image: /media/yapi-logo-02.png
-    publish: true
   - image: /media/tapidor-01.png
     publish: true
   - image: /media/cph-01.png
