@@ -3,7 +3,7 @@ carousel:
   - caption: ''
     image: /media/cph.jpg
   - caption: ''
-    image: /media/techno-6.jpg
+    image: /media/t7.jpg
   - caption: ''
     image: /media/setram.jpg
   - caption: ''
