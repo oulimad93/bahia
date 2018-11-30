@@ -5,7 +5,7 @@ carousel:
   - caption: ''
     image: /media/t7.jpg
   - caption: ''
-    image: /media/setram2.jpg
+    image: /media/setram3.jpg
   - caption: ''
     image: /media/techno-4.jpg
 intro_image: /media/aaa.png
